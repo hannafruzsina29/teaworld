@@ -52,7 +52,7 @@ table {
 /*----my own code----*/
 
 header {
-    background: url("zen-tea_2.jpg");
+    background: url("../images/zen-tea_2.jpg");
     background-size: cover;
     height: 370px;  
 }
